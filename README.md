@@ -8,7 +8,7 @@ This is a program developed collaboratively by the laboratories of Dr. Tychele N
 Current Maintainers:
 Jeffrey Ng, Dr. Turner Lab, jeffrey.ng@wustl.edu
 
-Yilin Chen, Dr. Karchin Lab, ychen338@jhu.edu
+Yilin Chen, Dr. Karchin Lab, yilinchen515@gmail.com
 
 ## Citation
 If you use 3D-CLUMP in your research, please cite:
